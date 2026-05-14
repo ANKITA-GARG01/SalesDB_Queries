@@ -335,7 +335,7 @@ ORDER BY st.student_id, su.subject_name
 
 ## 👤 Author
 
-**Your Name**  
-📧 youremail@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/yourusername)
+**Ankita Garg**  
+📧 ankitagarg327@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/ankita-garg-a80817212)  
+🐙 [GitHub](https://github.com/ANKITA-GARG01)
